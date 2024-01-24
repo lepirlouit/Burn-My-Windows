@@ -165,6 +165,12 @@ Then you can enable the extension with the _Gnome Tweak Tool_, the _Extensions_ 
 gnome-extensions enable burn-my-windows@schneegans.github.com
 ```
 
+## 🔧 configuration - preferences
+
+```bash
+gnome-extensions prefs burn-my-windows@schneegans.github.com
+```
+
 ## ⬇️ Installation (KWin)
 
 You can either download the effects from the KDE store (a), download a stable version from GitHub (b) or clone the latest version directly with `git` (c).
